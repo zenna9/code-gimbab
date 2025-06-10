@@ -25,3 +25,21 @@
 
 ## 📘 PR 템플릿 자동 적용됨
 - 글 링크, 요약, 요청사항을 작성하면 됩니다.
+
+
+## 📘 PR 제출 방법
+1. 레포를 clone 받습니다
+git clone https://github.com/hanghae99-unofficial-study/weekly-POST.git
+
+2. 브랜치를 만듭니다
+git checkout -b sungtaek/week01
+
+3. 마크다운 파일 작성
+touch 2025/week-01/sungtaek.md
+
+4. 커밋 & 푸시
+git add .
+git commit -m "박성택 - Zustand와 Redux 비교"
+git push origin sungtaek/week01
+
+5. GitHub에서 Pull Request 생성
