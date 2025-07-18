@@ -1,6 +1,6 @@
 ## ✍️ 작성자
 
-이민기 (@mingi3442)
+이민기 (@lapidix)
 
 ## 📌 주제
 
@@ -20,4 +20,4 @@ FrontEnd에서 클린 아키텍처와 DDD를 FSD와 함께 도입해보기
 
 ## 🤝 요청사항
 
-- [ ] [링크드인](https://www.linkedin.com/posts/min71_frontend-clean-architecture-with-fsd-ddd-activity-7350829310607249408-QXfM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIUafwBUpR2Lylhdt3-ElAzOpZWZyF6zOE)도 따봉,,,해주세여,,
+- [링크드인](https://www.linkedin.com/posts/min71_frontend-clean-architecture-with-fsd-ddd-activity-7350829310607249408-QXfM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIUafwBUpR2Lylhdt3-ElAzOpZWZyF6zOE)도 따봉,,,해주세여,,
