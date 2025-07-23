@@ -58,9 +58,7 @@
 - 추가 요청사항 내용
 ```
 
-## 👥 기여자
-
-### 참여 멤버
+## 참여 멤버
 
 | <a href="https://github.com/kanghyewon"><img src="https://github.com/kanghyewon.png" width="80" height="80"></a><br />**강혜원**<br />[블로그](https://velog.io/@kanghyeron/posts) | <a href="https://github.com/houndhollis"><img src="https://github.com/houndhollis.png" width="80" height="80"></a><br />**김영웅**<br />[블로그](https://velog.io/@houndhollis/posts) | <a href="https://github.com/naroso-o"><img src="https://github.com/naroso-o.png" width="80" height="80"></a><br />**나소현**<br />[블로그](https://naroso-o.github.io/dev) | <a href="https://github.com/stoic-park"><img src="https://github.com/stoic-park.png" width="80" height="80"></a><br />**박성택**<br />[블로그](https://stoic-park.vercel.app/post) | <a href="https://github.com/yerimmseo"><img src="https://github.com/yerimmseo.png" width="80" height="80"></a><br />**서예림**<br />[블로그](https://velog.io/@yerim7386/posts) | <a href="https://github.com/lapidix"><img src="https://github.com/lapidix.png" width="80" height="80"></a><br />**이민기**<br />[블로그](https://blog.lapidix.com) | <a href="https://github.com/LEEYEONSEONG"><img src="https://github.com/LEEYEONSEONG.png" width="80" height="80"></a><br />**이연성**<br />[블로그](https://leeyeonseong.github.io/tech-blog/) | <a href="https://github.com/zenna9"><img src="https://github.com/zenna9.png" width="80" height="80"></a><br />**정채은**<br />[블로그](https://zenna9.tistory.com/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
