@@ -1,45 +1,122 @@
-# ✍️ 코드 김밥 기술 블로그 스터디
+# 월간 김밥 블로그 스터디
 
-## 🎯 목적
+## 개요
+
 - 항해99 이후에도 꾸준히 글쓰기를 이어가기 위한 기술 블로그 스터디입니다.
-- 매주 기술 관련 주제로 블로그 글을 쓰고, 서로 피드백을 주고받습니다.
+- 매월 기술 관련 주제로 블로그 글을 쓰고, 서로 피드백을 주고받습니다.
 
-## 📆 운영 방식
-- 매주 금요일 오전 10:00시까지 개인 블로그에 글 작성
-- 디스코드 제출 스레드에 `이름 | 제목 | 링크` 형식으로 제출
-- 금요일까지 팀원들이 댓글로 피드백 ?
+## 스터디 운영 방식
 
-## 📌 제출 방법
+### 블로그 작성 및 피드백
 
-1. 매주 토요일 18시, 디스코드에 "블로그 제출 스레드"가 자동 생성됩니다.
-2. 본인의 블로그 글이 완성되면 해당 스레드에 다음 형식으로 작성해 주세요:
+- **작성 기한**: 매월 마지막 날 23:59시까지 개인 블로그에 글 작성합니다.
+- **피드백 활동**: 익월 5일 이전에 본인 포스팅을 제외한 다른 포스팅에 4개 이상의 댓글 작성합니다.
 
-이름 | 글 제목 | 링크
-예: 박성택 | Zustand와 Redux 비교 | https://sungtaek.dev/posts/zustand-redux
+### 모임 일정
 
-3. 제출과 동시에 GitHub에 PR을 올려주세요.
-4. 팀원들은 금요일까지 PR에 피드백을 남겨 주세요.
+- **정기 모임**: 매주 수요일 11-12시 (진행상황 공유 및 글 작성 시간)
+- **코어 타임**: 월-목 8-12시 (접속 권장)
 
-## ⏰ 마감 시간
-- 매주 금요일 오전 10시까지
+### 참여 규칙
 
-## 📘 PR 템플릿 자동 적용됨
-- 글 링크, 요약, 요청사항을 작성하면 됩니다.
+아래의 규칙을 지기키 못하는 경우 3만원의 벌금이 부과됩니다.
 
+- 매 달 1개 이상의 포스팅을 합니다.
+- 매 달 2회 이상의 수요일 정기모임 출석을 합니다.
+- 익월 5일 이전에 본인 포스팅을 제외한 다른 포스팅에 4개 이상의 댓글을 작성합니다.
 
-## 📘 PR 제출 방법
-1. 레포를 clone 받습니다
-git clone https://github.com/hanghae99-unofficial-study/weekly-POST.git
+> ✅ _벌금은 스터디 운영비로 사용됩니다_
 
-2. 브랜치를 만듭니다
-git checkout -b sungtaek/week01
+### 글 제출 과정
 
-3. 마크다운 파일 작성
-touch 2025/week-01/sungtaek.md
+1. 개인 기술 블로그에 글을 작성합니다.
+2. 이 레포지토리에 `year/month/이름.md` 형식으로 마크다운 파일을 작성합니다.
+3. 작성한 파일을 PR로 제출합니다.
+4. PR이 제출되면 디스코드에 "블로그 제출 스레드"가 자동으로 생성됩니다.
 
-4. 커밋 & 푸시
-git add .
-git commit -m "박성택 - Zustand와 Redux 비교"
-git push origin sungtaek/week01
+### PR 템플릿 예시
 
-5. GitHub에서 Pull Request 생성
+```markdown
+## 작성자
+
+이름 (@<github_username>)
+
+## 주제
+
+글 주제
+
+## 블로그 링크
+
+[글 보러가기](https://blog.com/post-url)
+
+## 요약
+
+- 글 요약 내용
+
+## 요청사항
+
+- 추가 요청사항 내용
+```
+
+## 기여자
+
+### 참여 멤버
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/kanghyewon">
+      <img src="https://github.com/kanghyewon.png" width="100px;" alt=""/><br />
+      <b>강혜원</b><br />
+    </a>
+    <a href="https://velog.io/@kanghyeron/posts"> <sub>Blog Link</sub></a>
+  </div>
+    <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/houndhollis">
+      <img src="https://github.com/houndhollis.png" width="100px;" alt=""/><br />
+      <b>김영웅</b><br />
+    </a>
+    <a href="https://velog.io/@houndhollis/posts"> <sub>Blog Link</sub></a>
+  </div>
+  <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/naroso-o">
+      <img src="https://github.com/naroso-o.png" width="100px;" alt=""/><br />
+      <b>나소현</b><br />
+    </a>
+    <a href="https://naroso-o.github.io/dev"> <sub>Blog Link</sub></a>
+  </div>
+  <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/stoic-park">
+      <img src="https://github.com/stoic-park.png" width="100px;" alt=""/><br />
+      <b>박성택</b><br />
+    </a>
+    <a href="https://stoic-park.vercel.app/post"> <sub>Blog Link</sub></a>
+  </div>
+  <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/yerimmseo">
+      <img src="https://github.com/yerimmseo.png" width="100px;" alt=""/><br />
+      <b>서예림</b><br />
+    </a>
+    <a href="https://velog.io/@yerim7386/posts"> <sub>Blog Link</sub></a>
+  </div>
+    <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/lapidix">
+      <img src="https://github.com/lapidix.png" width="100px;" alt=""/><br />
+      <b>이민기</b><br />
+    </a>
+    <a href="https://blog.lapidix.com"> <sub>Blog Link</sub></a>
+  </div>
+    <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/LEEYEONSEONG">
+      <img src="https://github.com/LEEYEONSEONG.png" width="100px;" alt=""/><br />
+      <b>이연성</b><br />
+    </a>
+    <a href="https://leeyeonseong.github.io/tech-blog/"> <sub>Blog Link</sub></a>
+  </div>
+  <div style="text-align: center; width: 120px; padding: 8px;">
+    <a href="https://github.com/zenna9">
+      <img src="https://github.com/zenna9.png" width="100px;" alt=""/><br />
+      <b>정채은</b><br />
+    </a>
+    <a href="https://zenna9.tistory.com/"> <sub>Blog Link</sub></a>
+  </div>
+</div>
