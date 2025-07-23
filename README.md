@@ -3,7 +3,7 @@
 ## 개요
 
 - 항해99 이후에도 꾸준히 글쓰기를 이어가기 위한 기술 블로그 스터디입니다.
-- 매월 기술 관련 주제로 블로그 글을 쓰고, 서로 피드백을 주고받습니다.
+- 매월 기술 관련 주제로 블로그 글을 작성하고, 서로 피드백을 주고받습니다.
 
 ## 스터디 운영 방식
 
@@ -58,65 +58,9 @@
 - 추가 요청사항 내용
 ```
 
-## 기여자
+## 👨‍👩‍👧‍👦 기여자
 
 ### 참여 멤버
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/kanghyewon">
-      <img src="https://github.com/kanghyewon.png" width="100px;" alt=""/><br />
-      <b>강혜원</b><br />
-    </a>
-    <a href="https://velog.io/@kanghyeron/posts"> <sub>Blog Link</sub></a>
-  </div>
-    <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/houndhollis">
-      <img src="https://github.com/houndhollis.png" width="100px;" alt=""/><br />
-      <b>김영웅</b><br />
-    </a>
-    <a href="https://velog.io/@houndhollis/posts"> <sub>Blog Link</sub></a>
-  </div>
-  <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/naroso-o">
-      <img src="https://github.com/naroso-o.png" width="100px;" alt=""/><br />
-      <b>나소현</b><br />
-    </a>
-    <a href="https://naroso-o.github.io/dev"> <sub>Blog Link</sub></a>
-  </div>
-  <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/stoic-park">
-      <img src="https://github.com/stoic-park.png" width="100px;" alt=""/><br />
-      <b>박성택</b><br />
-    </a>
-    <a href="https://stoic-park.vercel.app/post"> <sub>Blog Link</sub></a>
-  </div>
-  <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/yerimmseo">
-      <img src="https://github.com/yerimmseo.png" width="100px;" alt=""/><br />
-      <b>서예림</b><br />
-    </a>
-    <a href="https://velog.io/@yerim7386/posts"> <sub>Blog Link</sub></a>
-  </div>
-    <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/lapidix">
-      <img src="https://github.com/lapidix.png" width="100px;" alt=""/><br />
-      <b>이민기</b><br />
-    </a>
-    <a href="https://blog.lapidix.com"> <sub>Blog Link</sub></a>
-  </div>
-    <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/LEEYEONSEONG">
-      <img src="https://github.com/LEEYEONSEONG.png" width="100px;" alt=""/><br />
-      <b>이연성</b><br />
-    </a>
-    <a href="https://leeyeonseong.github.io/tech-blog/"> <sub>Blog Link</sub></a>
-  </div>
-  <div style="text-align: center; width: 120px; padding: 8px;">
-    <a href="https://github.com/zenna9">
-      <img src="https://github.com/zenna9.png" width="100px;" alt=""/><br />
-      <b>정채은</b><br />
-    </a>
-    <a href="https://zenna9.tistory.com/"> <sub>Blog Link</sub></a>
-  </div>
-</div>
+| <a href="https://github.com/kanghyewon"><img src="https://github.com/kanghyewon.png" width="80" height="80"></a><br />**강혜원**<br />[블로그](https://velog.io/@kanghyeron/posts) | <a href="https://github.com/houndhollis"><img src="https://github.com/houndhollis.png" width="80" height="80"></a><br />**김영웅**<br />[블로그](https://velog.io/@houndhollis/posts) | <a href="https://github.com/naroso-o"><img src="https://github.com/naroso-o.png" width="80" height="80"></a><br />**나소현**<br />[블로그](https://naroso-o.github.io/dev) | <a href="https://github.com/stoic-park"><img src="https://github.com/stoic-park.png" width="80" height="80"></a><br />**박성택**<br />[블로그](https://stoic-park.vercel.app/post) | <a href="https://github.com/yerimmseo"><img src="https://github.com/yerimmseo.png" width="80" height="80"></a><br />**서예림**<br />[블로그](https://velog.io/@yerim7386/posts) | <a href="https://github.com/lapidix"><img src="https://github.com/lapidix.png" width="80" height="80"></a><br />**이민기**<br />[블로그](https://blog.lapidix.com) | <a href="https://github.com/LEEYEONSEONG"><img src="https://github.com/LEEYEONSEONG.png" width="80" height="80"></a><br />**이연성**<br />[블로그](https://leeyeonseong.github.io/tech-blog/) | <a href="https://github.com/zenna9"><img src="https://github.com/zenna9.png" width="80" height="80"></a><br />**정채은**<br />[블로그](https://zenna9.tistory.com/) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
