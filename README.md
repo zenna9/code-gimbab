@@ -67,14 +67,12 @@
       <td align="center" valign="top" width="20%"><a href="https://github.com/houndhollis"><img src="https://github.com/houndhollis.png" width="100px;" alt="김영웅"/><br /><sub><b>김영웅</b></sub></a><br /><a href="https://velog.io/@houndhollis/posts" title="블로그">📝</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/naroso-o"><img src="https://github.com/naroso-o.png" width="100px;" alt="나소현"/><br /><sub><b>나소현</b></sub></a><br /><a href="https://naroso-o.github.io/dev" title="블로그">📝</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/stoic-park"><img src="https://github.com/stoic-park.png" width="100px;" alt="박성택"/><br /><sub><b>박성택</b></sub></a><br /><a href="https://stoic-park.vercel.app/post" title="블로그">📝</a></td>
-      <td align="center" valign="top" width="20%"><a href="https://github.com/yerimmseo"><img src="https://github.com/yerimmseo.png" width="100px;" alt="서예림"/><br /><sub><b>서예림</b></sub></a><br /><a href="https://velog.io/@yerim7386/posts" title="블로그">📝</a></td>
     </tr>
     <tr>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/yerimmseo"><img src="https://github.com/yerimmseo.png" width="100px;" alt="서예림"/><br /><sub><b>서예림</b></sub></a><br /><a href="https://velog.io/@yerim7386/posts" title="블로그">📝</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/lapidix"><img src="https://github.com/lapidix.png" width="100px;" alt="이민기"/><br /><sub><b>이민기</b></sub></a><br /><a href="https://blog.lapidix.com" title="블로그">📝</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/LEEYEONSEONG"><img src="https://github.com/LEEYEONSEONG.png" width="100px;" alt="이연성"/><br /><sub><b>이연성</b></sub></a><br /><a href="https://leeyeonseong.github.io/tech-blog/" title="블로그">📝</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/zenna9"><img src="https://github.com/zenna9.png" width="100px;" alt="정채은"/><br /><sub><b>정채은</b></sub></a><br /><a href="https://zenna9.tistory.com/" title="블로그">📝</a></td>
-      <td align="center" valign="top" width="20%"></td>
-      <td align="center" valign="top" width="20%"></td>
     </tr>
   </tbody>
 </table>
